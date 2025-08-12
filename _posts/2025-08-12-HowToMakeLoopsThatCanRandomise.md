@@ -1,5 +1,5 @@
 ---
-title: Make Loops that can be Randomised.
+title: Make Loops that can be Randomised
 author: 
 date: 2025-08-12 17:06:31 +1200
 categories: [Learning]
