@@ -16,12 +16,12 @@ The key aspect of this that allows it to loop seamlessly is that the end of the 
 {: .text-justify}
 ![BVariationLoop](assets/RandomisedLoops/VariationLoop.png)
 
-<sub>Above: A variation loop created by replacign the middle of the basic loop while fading in to the same beginning and end.</sub>
+<sub>Above: A variation loop created by replacing the middle of the basic loop while fading into the same beginning and end.</sub>
 
 You may think the start and end points will be noticeable as they are the same every time. However, by selecting the right moment and by having the fades go right up to the start and end points, we can make it very hard to notice this reoccuring material. It can also be beneficial to vary the length of each loop so that the loop point does not recur at a fixed rate. 
 {: .text-justify}
 
-If we have a looping sound that the player hears for an extended period of time, it can be worth it to implement loops that shuffle in this way so that there is more variaion than an implementation that uses a single loop.
+If we have a looping sound that the player hears for an extended period of time, it can be worth it to implement loops that shuffle in this way so that there is more variation than an implementation that uses a single loop.
 {: .text-justify}
 
 These assets can easily be implemented using FMOD Multi-Instruments or Wwise Random Containers. 
