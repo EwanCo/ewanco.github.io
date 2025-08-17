@@ -2,8 +2,8 @@
 title: Make Loops that can be Randomised
 author: 
 date: 2025-08-12 17:06:31 +1200
-categories: [Learning]
-tags: [game, learn]
+categories: [Learning, Sound Design]
+tags: [game, learn, sound design, loops]
 ---
 In game audio it is essential to create variations of one-shot sounds like footsteps so that the player doesn't find them repetitive or distracting. Whilst not the most common approach, we can do the same with looped sounds by creating a set of loops that all seamlessly connect to one another. This allows us to randomise the playback order and therefore create more possible variation. This approach often works better than simply creating a single really long loop.
 {: .text-justify}
