@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-10-17-Godzilla_Redesign"
             }
+          },
+          {
+            "id": "4dc94162b66bbae7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e04c1ab512842f9d",
+  "active": "4dc94162b66bbae7",
   "lastOpenFiles": [
     "download/CV_ewanCollins_2025-08-04.pdf",
     "_posts/2025-04-05-SurroundSoundSimplified.md",
