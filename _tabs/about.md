@@ -14,5 +14,3 @@ I hold a Master's Degree in Music Composition with First Class Honours, where I 
 ​
 
 I believe sound is one of the most evocative modes of communication. Whether it is to tell a new story, or enhance the stories of others, sound is my way of sharing and contributing to storytelling.
-
-<p><a href="/CV.html">View my Demo and CV</a></p>
